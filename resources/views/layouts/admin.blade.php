@@ -197,6 +197,10 @@
             @endif
 
             @yield('content')
+
+            <footer class="mt-12 pt-6 border-t border-slate-200 text-center text-xs text-slate-500">
+                &copy; {{ date('Y') }} <a href="https://pintarkreatifdigital.com/" target="_blank" rel="noopener noreferrer" class="font-semibold text-slate-700 hover:text-blue-600 transition">Pintar Kreatif Digital</a>. Seluruh hak cipta dilindungi.
+            </footer>
         </main>
     </div>
 

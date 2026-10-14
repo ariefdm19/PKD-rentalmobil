@@ -204,7 +204,7 @@
             </div>
 
             <div class="pt-8 flex flex-col sm:flex-row justify-between items-center text-xs text-slate-500 gap-4">
-                <p>&copy; {{ date('Y') }} Pintar Kreatif Digital. Hak Cipta Dilindungi Undang-Undang.</p>
+                <p>&copy; {{ date('Y') }} <a href="https://pintarkreatifdigital.com/" target="_blank" rel="noopener noreferrer" class="font-semibold text-slate-400 hover:text-blue-400 underline underline-offset-4 transition">Pintar Kreatif Digital</a>. Hak Cipta Dilindungi Undang-Undang.</p>
                 <div class="flex space-x-6">
                     <span>Aplikasi Rental Mobil Siap Pakai & Komersial</span>
                     <span>Versi 1.0.0</span>
